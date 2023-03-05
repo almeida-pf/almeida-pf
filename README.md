@@ -2,7 +2,7 @@
 
 # ❤ Hello, nice to have you here!
   <div id="badges">
-  <a href = "https://www.linkedin.com/in/pablo-almeida-1b8634130/ target="_blank ">
+  <a href = "https://github.com/risoflorais">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
