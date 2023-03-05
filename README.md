@@ -35,5 +35,3 @@ Programming lover and fascinated by the possibility of creating innovative solut
   
 </div>
 
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=almeida-pf&repo=almeida-pf&theme=react)](https://github.com/almeida-pf/almeida-pf)
