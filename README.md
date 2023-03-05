@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Programming lover and fascinated by the possibility of creating innovative solutions with lines of code
 
-- ❤ Estudante de Game Design
+- ❤ Data science student
 - 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- 👩‍💻 Learning something about backend
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
