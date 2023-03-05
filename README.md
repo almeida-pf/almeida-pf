@@ -30,7 +30,7 @@ Programming lover and fascinated by the possibility of creating innovative solut
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeida-pf&show_icons=true&theme=blue-green&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=almeida-pf&show_icons=true&show_icons=true&theme=blue-green&count_private=true" />
-  
-   ![Snake animation](https://github.com/almeida-pf/almeida-pf/blob/output/github-contribution-grid-snake.svg)
-  
+   
 </div>
+
+![Snake animation](https://github.com/almeida-pf/almeida-pf/blob/output/github-contribution-grid-snake.svg)
