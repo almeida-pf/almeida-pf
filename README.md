@@ -12,7 +12,7 @@
 Programming lover and fascinated by the possibility of creating innovative solutions with lines of code
 
 - ❤ Data science student
-- 💙 Fã da Alura
+- 💙 SalesForce
 - 👩‍💻 Learning something about backend
 
 <div>
